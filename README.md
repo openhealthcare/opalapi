@@ -1,4 +1,4 @@
-opalapi is a Python client for the APIs that [http://opal.openhealthcare.org.uk](OPAL) applications provide.
+opalapi is a Python client for the APIs that [OPAL](http://opal.openhealthcare.org.uk) applications provide.
 
 It is compatible with OPAL applications running on OPAL 0.7.0 or higher.
 
